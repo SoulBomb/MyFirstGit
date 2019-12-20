@@ -7,3 +7,4 @@ changes 0.5
 change 0.5
 changes 0.6
 change 0.7
+change 0.6
